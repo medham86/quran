@@ -2,7 +2,7 @@
   "name": "quran",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://medham86.github.io/quran",
+  "homepage": "https://medham86.github.io/quranApp",
   "type": "module",
   "proxey": "https://mp3quran.net/",
   "scripts": {
